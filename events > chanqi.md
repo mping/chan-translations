@@ -26,9 +26,9 @@ Oferecido numa base de doação, o retiro está aberto à participação tanto a
 Por favor contacte-nos para se inscrever no retiro e para mais informações se quiser passar a noite durante o retiro.
 Fotografia
 Clique para descarregar a agenda
-TODAS AS CONVERSAÇÕES DE DARMA DURANTE O CHANQI COMEÇAM ÀS 19:20H
+TODAS AS CONVERSAÇÕES DE DHARMA DURANTE O CHANQI COMEÇAM ÀS 19:20H
 
 Durante o Chan Qi:
 
 Chan Meditation with Asia & Tuesday Mantra with Ven. XC são cancelados, todas as outras aulas serão retomadas.
-Domingo 8 AM Assembleia de Darma @ Lu Mountain Temple, conversa regular de Darma após a assembleia de domingo é cancelada.
+Domingo 8 AM Assembleia de Dharma @ Lu Mountain Temple, conversa regular de Dharma após a assembleia de domingo é cancelada.

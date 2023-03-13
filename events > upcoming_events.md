@@ -1,4 +1,4 @@
-# Upcoming Events
+# Eventos Futuros
 
 https://www.chanpureland.org/upcoming-events.html
 

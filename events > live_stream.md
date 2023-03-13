@@ -1,4 +1,4 @@
-# Live Stream
+# Transmissão Em Direto
 
 https://www.chanpureland.org/live-stream.html
 

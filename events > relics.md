@@ -1,4 +1,4 @@
-# Relics
+# Relíquias
 
 https://www.chanpureland.org/relics.html
 

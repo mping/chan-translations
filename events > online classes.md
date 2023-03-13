@@ -1,4 +1,4 @@
-# Online Classes
+# Aulas Online
 
 https://www.chanpureland.org/online-chan.html
 
@@ -10,7 +10,7 @@ Mestre XianZhi, abade do Templo de Montanha Jeweled na Coreia, lidera uma secç�
        Domingos, 9-10 da manhã, Hora da Coreia
        (sábados, 16-5pm PST)
 
-Além disso, ele também lidera uma secção de zoom "Ouça as conversas de Darma do Mestre YongHua".
+Além disso, ele também lidera uma secção de zoom "Ouça as conversas do Dharma do Mestre YongHua".
 
        Quartas-feiras, 8-9pm, Hora da Coreia
        (quartas-feiras, 3-4 da manhã PST)
