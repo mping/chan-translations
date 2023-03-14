@@ -1,0 +1,3 @@
+# A Transcendental Man
+
+​Thunder cannot be muffled so that it can harmonize with the sound of bells and whistles. Sunlight or moonlight cannot be bent so as to illuminate an alleyway or a hidden cave. Rivers cannot be squeezed so that they are easier to cross. Tall mountains cannot be lowered in order to make it easier to climb.Likewise, great men cannot compromise themselves in order to be accepted by the masses.       *****​Superior men do not seek fame and profit in order to avoid kowtowing to the lowly.​Left home people who are poor and Spartan can cultivate the Way easier and can accomplish the Way more quickly.

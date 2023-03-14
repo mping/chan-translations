@@ -1,0 +1,3 @@
+# On Laziness
+
+​The Buddhas warned against laziness. They say that lazy people are prone to doing evil. Therefore:1. We should train our children and the young to be diligent instead of spoiling them.2. Adults should apply themselves to pursue worthwhile endeavors to contribute to society.       3. Older people should not simply take it easy, feeling that they have earned it. Instead, they should look for opportunities to pass on their knowledge to the young as well as to the adults.​Then we’ll all have a better chance at having a meaningful and happier life. In other words, being vigorous at doing good and stopping our own evil is a necessary condition for happiness, not self-indulgence or being self-serving at the expense of others.

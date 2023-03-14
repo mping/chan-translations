@@ -1,0 +1,3 @@
+# How to Assess Others
+
+There is usually a wide gap between people’s words and actions.​Therefore, the ancients used to employ these tests to assess people:      ​Sending them away to test their loyalty.Keeping them close to see their respectfulness.Giving them a lot of assignments to test their talents.Querying them when they are pressed to measure their intelligence.Giving short deadlines to gauge their punctuality.Letting them keep money to assess their honesty.Forewarning them of dangers to evaluate their steadfastness.Making them drunk to observe their manners.Making them afflicted to test their composure.* * * * *​Trust people’s deeds not words.

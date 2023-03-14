@@ -1,0 +1,3 @@
+# Sick when attending recitation sessions
+
+Question:Master:Our Way place has a lot of members. That is why we often have to participate and recite on behalf of the members’ deceased family and relatives.Does reciting continuously for 8 hours really help?Each time I go, I’d fall sick. Is it because of the excessive yin qi?What can we do to avoid having problems when we recite for others? We can’t say no.​NN      Answer:​The more you recite the better it is because more merit and virtue is created on behalf of the deceased. There is really no magic regarding the 8 hours. What’s important is to create blessings within the 49 days period.

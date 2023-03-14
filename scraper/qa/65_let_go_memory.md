@@ -1,0 +1,3 @@
+# Let Go Memory
+
+Question:Ven. Master:What can we do to detach from our memories?​DMĐ      ​Answer:​Memory is the result of past karmas.There are a lot of ways to erase memory:Practice repentance Dharmas such as bowing, confession etc…Recite the Buddha’s nameMaintain mantras such the Great Compassion Mantra, The Seven Buddhas mantra etc…Become an Arhat or higher etc…I find that if you practice the proper meditation methods like Chan under the proper guidance, you will be able to more effectively let go more quickly.

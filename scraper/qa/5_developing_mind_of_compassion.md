@@ -1,0 +1,3 @@
+# Developing Mind of Compassion
+
+Question:Venerable Master,Please teach me how to develop the mind of Great Compassion when I practice. I don’t understand Great Compassion and would appreciate some instructions.​NTBL      Answer:When you practice the various Guan Yin Dharmas such as the Great Compassion Mantra, the 42 Hands & Eyes, reciting the Bodhisattva’s name or the Universal Door Chapter (of the Lotus Sutra), and bowing the Great Compassion Repentance etc… your mind of Great Compassion will naturally develop.​Should you wish to make it happen faster, find a Good Knowing Adviser at a Mahayana temple. If he has achieved Great Compassion, he can better explain it to you and help you unfold it quickly.

@@ -1,0 +1,3 @@
+# Arrogance
+
+Question:I’m constantly suffering from my arrogance. How can I stop being arrogant? Where can I start?AT, Cerritos, California       Answer:Your awareness of it is a very good start. Arrogance is simply stupidity. For most us, it’s a real turn-off. The Vietnamese have a saying: “your comportment can destroy your looks, cái nết đánh chết cái đẹp.”The more you progress, the less arrogant you will be and you will also be more likeable.​Be vigilant of thoughts of arrogance. Bring forth the mind of shame of such pettiness. You will eventually outgrow it.

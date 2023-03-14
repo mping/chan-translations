@@ -1,0 +1,3 @@
+# Improving Oneself
+
+How does one practice self-improvement as advocated by Confucius?​When seeing other’s right, one strives to emulate; when seeing other’s wrongs, one self-examines in order to correct one’s mistakes.      Strive to preserve one’s goodness; work hard to get rid of one’s flaws.Look at those who criticize us as teachers, at those who praise what’s right as our friends, and those who flatter us as our enemies.​It takes doing, not just knowing. One should meditate every day, return the light to shine within and work hard to correct one’s mistakes.

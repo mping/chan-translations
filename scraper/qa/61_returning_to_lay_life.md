@@ -1,0 +1,3 @@
+# Returning to Lay Life
+
+Question:Ven. Master,I know of someone who left the home life a long time ago.Recently, that person is considering returning to lay life: would that involve committing offenses?​TTMH      Answer:If the left home life style is not suitable, it is better to return to lay life.​In general, we can return to lay life anytime instead of violating the precepts and the Buddhas and Bodhisattvas would not hold it against us.

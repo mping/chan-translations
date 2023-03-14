@@ -1,0 +1,3 @@
+# What about Fa Lun Gong
+
+Questions:Ven. Master,What do you think about the Fa Lun Gong?Thank you.​MTV      Answer:From the Buddhist perspective, the Fa Lun Gong dharma is considered be externalist because it fails to help people obtain True Liberation.The true Buddhist seeks real wisdom and not short term gains or responses.Truthfully speaking, they have a lot of followers because a lot of people benefited from it. Personally,I feel that for the same investment of time and efforts in learning from a Good Knowing Adviser, the Buddhists will very quickly obtain far greater benefits.

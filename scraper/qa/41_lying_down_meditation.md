@@ -1,0 +1,3 @@
+# Lying Down Meditation
+
+Question:hello sir,its great to contected to you.i am 33 year multipal slip disc patient and cant sit for long,i am very comfortable in layinh down streight(which dotcor also advisid me) can i do metditation while laying down?i know it seems foolish.but it comes to my brain and i asked. Thank you.V ​      Answer:Yes, you certainly can meditate lying down. If you can cross your legs and gradually work toward full lotus while lying down: that’s better yet.​However, I am not a medical doctor and I don’t know what your limitations are, so please check with your doctor first before doing anything. In fact, once you do contact your doctor and you find out what you are able to do, please write again and let me know how you are doing.

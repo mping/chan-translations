@@ -1,0 +1,3 @@
+# Great Men’s 4 Considerations
+
+​Zi Chan 子產was a well-known scholar. He became a great politician and general in the Zheng鄭 country in China. He taught that great men have four superior traits:​1. Having self-respect toward oneself.      ​2. Being respectful toward one’s superiors.3. Using kindness (practice giving) and wisdom to guide the people.4. Being righteous to lead the country.Then it is easier to bring peace and harmony inside the country while gaining respect and fearfrom other countries.* * * * *This comes from wisdom that he accumulated from over 40 years of service to his country.

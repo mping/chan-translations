@@ -1,0 +1,3 @@
+# What is Pure Land
+
+Question:Ven. Master,What is the Pure Land Dharma Door?​LBN      Answer:The Pure Land adherents:Believe that going to the Western Bliss Pure Land is their quickest and most suitable option to attain liberation.Therefore they sincerely make the vow to be reborn there.They then engage in the various practices such as reciting sutras, reciting the Buddha’s name, bowing to the Buddha, maintaining mantras etc… to create rebirth blessings.

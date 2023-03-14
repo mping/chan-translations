@@ -1,0 +1,3 @@
+# Reciting the Infinite Life Sutra
+
+Question:Ven. Master,I worship Shakyamuni Buddha. Is it OK for me to recite the Infinite Life Sutra? Please clarify this for me.Emituofo,​VTH      Answer:Shakyamuni Buddha spoke of the Infinite Life Sutra so that we can recite and maintain it. Your reciting the Sutra shows obedience and loyalty to Shakyamuni Buddha.​Better yet, consider rebirth to the Western Bliss Pure Land by cultivating the Pure Land Dharma Door in earnest. It will make Shakyamuni Buddha very happy.

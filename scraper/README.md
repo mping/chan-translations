@@ -20,7 +20,7 @@
 
 
  ```shell
- node scraper.js https://www.chanpureland.org/dharma-blog
- node scraper.js https://www.chanpureland.org/qa
- node scraper.js https://www.chanpureland.org/cultivation-stories
+node scraper.js 
+# afterwards
+node json2md.js
  ```

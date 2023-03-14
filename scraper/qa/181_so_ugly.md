@@ -1,0 +1,3 @@
+# So Ugly
+
+Question:​Master,The more I cultivate the more I realize how ugly I am … what a horrible person I am …​JT, Orange, California       Answer:​Sounds like music to my ears. I used to like the classical symphonies. This is even better than any of them.It’s the best thing you’ve said this year.If you can’t see your ugliness, you can’t get rid of it. It would not be a bad idea to openly talk about your many ugliness in our assemblies.The more you progress, the more ugliness you’ll discover buried underneath. Erase those and you can then add beauty to the world.​Shhhh! Cultivators are truly artists!

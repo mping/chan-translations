@@ -1,0 +1,3 @@
+# Fearful of Retribution
+
+Question:I am 19 years old. I saw a video on the grave consequences of violating the deviant sex precepts.I realize that I violated the precept and wish to repent. Would I still need to undergo the retributions?​PVT      Answer:If you have not yet received the Deviant Sex Precept then you only need to do a face-to-face repentance with a pure sanghan in order to erase the karmic consequences.Then you must make sure not to commit the offense again.If you already have received the Deviant Sex precept, there are very few sanghans who can really help.​However, you still should refrain from committing the offense in order to avoid piling up the retributions.

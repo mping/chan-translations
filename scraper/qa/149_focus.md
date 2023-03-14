@@ -1,0 +1,3 @@
+# Focus
+
+Question:Master:I don’t understand why, at times, it’s very easy to focus the mind when cultivating. But other times, the mind refuses to cooperate. In the beginning I find sitting in full lotus no problem; then often, the pain would come within 30 minutes.What do I need to do?​NN       Answer:It’s like going sailing: sometimes it’s very smooth sailing when the weather is favorable; at other times, we would encounter a storm.​You need to patiently endure it and all will be OK. Eventually you’ll understand why the obstructions and difficulties arrive.

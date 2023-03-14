@@ -1,0 +1,3 @@
+# [PLHB] Abortion
+
+Question:​I had an abortion, how should I recite the Earth Store Sutra and dedicate the merit and virtue to help?      Answer:When we have abortions, they tend to have a hard time separating from us because:They are attached to their mother.They have hatred for their mother for taking their lives.Therefore, we should generate blessings in order to help them obtain liberation.Reciting the Earth Store Sutra is very effective at helping them attain liberation from the Three Evil Paths. You could recite the Earth Store Sutra three times and dedicate the merit and virtue to them.Better yet, you should request a rebirth plaque on their behalf so as to help them obtain rebirth to the Western Bliss Pure Land.

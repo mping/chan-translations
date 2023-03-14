@@ -1,0 +1,3 @@
+# Meditation Weird Presence
+
+Question:After I sent the request for the plaques [on behalf of the entire Assembly for the upcoming One Week Buddha Recitation Dharma Assembly]. I felt a weird presence even in my meditation as well. It feel sort of not bright and smells a little like drain…I wonder if I did anything wrong, or retribution for giving other chance to make incense offering. That’s my guess, I don’t have much of what’s going on…​DT, Artesia, California      Answer:Your act of kindness and sincerity earned you a timely test.Unfortunately, your lifelong attachments still are in the way.Remember the Chan [meditation] dictum:​[While meditating] If the demon comes, shoot him; if the Buddha appears, kill him.

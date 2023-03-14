@@ -1,0 +1,3 @@
+# Eating Non-Vegetarian Cake By Mistake
+
+​Question:I prayed to GuanYin and obtained a response. I therefore have been eating vegetarian in order to repay her kindness. Unfortunately, I inadvertently ate a non-vegetarian cake. What should I do?​LTĐ      Answer:You can eat vegetarian another day to make up for it. When it is unintentional then it is only a slight offense. Now that you have repented, it has been erased.​A word of caution: do not try so hard because it might cause others to think that we Buddhists are extreme. Please consider yourself as still trying to learn to eat vegetarian.

@@ -1,0 +1,3 @@
+# Arranging Altar
+
+Question:Ven. Master:I worship four Buddhas and Bodhisattvas: Shakyamuni Buddha, Amitabha, Guan Yin and Maitreya.The Amitabha statue is longer and is placed in the center. ​Shakyamuni Buddha is to his left and Guan Yin is to his right. Maitreya is on the altar. They are of different dimensions. Is this arrangement appropriate?Thank you,​H      Answer:Buddhas and Bodhisattvas certainly do not mind how their statues are arranged.Any arrangement is acceptable as long as it looks good to you.​More importantly, keep the altar adorned to the best of your abilities. The best way to adorn and worship them is to purify your mind and keep the Buddhist precepts.

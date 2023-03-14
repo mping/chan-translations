@@ -1,0 +1,3 @@
+# Starting time of the 49-day Period
+
+Question:The 49-day period, does it start from the time of death or from the burial day? Some left home people claim that it starts from the burial date.DX, Hungtington Beach, CA      Answer:I disagree with those left home people who say that the 49-day period starts from the burial date.They should check with the Earth Store sutra.It says very clearly that after the time of death, the surviving friends and relatives have 49 days to try to create merit and virtues of behalf of the deceased to help them get a better rebirth.算○​

@@ -1,0 +1,3 @@
+# Buddhas before Amitabha
+
+Question:Emituofo! Greetings to you, Master. I have been pondering about this for a long time. Please help clarify it for me.Ven. Master, in Buddhism, which Buddhas became Buddhas before Amitabha Buddha? Please kindly instruct me.Emituofo.​TD      Answer:Countless Buddhas became Buddhas before Amitabha Buddha.Why should that matter to you?​The most important consideration for you should be what to do this lifetime in order to quickly become a Buddha yourself.

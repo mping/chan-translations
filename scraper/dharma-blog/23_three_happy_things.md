@@ -1,0 +1,3 @@
+# Three Happy Things
+
+​The ancients felt that the superior man possesses three happy things that are even better than being a king. One’s parents are still alive and the siblings are safe and healthy: that is one happy thing.​One cannot be reproached by the heavens and feels no shame toward anyone: that is another happy thing.      To receive teaching and guidance from the sages and worthy ones, that is another very happy thing. * * * * *  When one’s parents are still in the world and the siblings are safe and well, then one has the chance to practice filiality: the heart feels happy. When one’s conscience is free and clear, the mind feels happy. When one obtains help and guidance from great men, the spirits are happy.

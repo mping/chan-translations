@@ -1,0 +1,3 @@
+# Kneeling While Reciting Sutras
+
+Question:Master,Is it acceptable to kneel during the recitation of the Amitabha Sutra in the morning ceremony?​UN, Long Beach, California       Answer:Excellent!Your faith is deepening.Sutras should be recited with utmost respect. Reciting in the kneeling position is an excellent practice.For example, when you recite it at home, you may kneel.​However, when we are practicing the Great Assembly Dharma, the congregation should collectively follow the lead of the Ceremony Master. To be the only one kneeling while others are standing would draw too much attention to yourself, and may, therefore, be inappropriate.

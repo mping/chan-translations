@@ -1,0 +1,3 @@
+# Modern Zen Different from Ancient Zen
+
+Question:Dear Master YongHuaI would like to ask you about modern day ZenI have been practicing for quite some time and I have a little Experience. ​There’s seems to be quite a gap between modern day Zen and ancient Chan. What is generally be transmitted.Thanks youStan Baker​SB      Answer:​As far as I can tell, there is absolutely no gap in the transmission of Chan or Mahayana Buddhism.​The gap is in in the students’ capacity to absorb the teaching. In that sense, it is true that the great teachers do not reveal themselves anymore because there are not enough qualified students (those who can absorb the teachings or can practice the Mahayana secret practices).

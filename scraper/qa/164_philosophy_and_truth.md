@@ -1,0 +1,3 @@
+# Philosophy and Truth
+
+Question:Master, can you please comment on this quotation?The student asked the master “what is the difference between a genius and a madman?”The master replied “The genius uses his madness constructively, while the madman uses his genius destructively.”​It’s not about how much you have; it’s what you do with it.      Answer:​The madman does not realize the damage he is inflicting on others. Our brand of Buddhism emphasizes cultivation to eliminate confusion so as not to harm others, not for the sake of knowledge alone.​That really translates into relentlessly trying to continue to progress instead of being satisfied with the status quo. My superior followers do not stop and rest until they reach Buddhahood.

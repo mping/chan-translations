@@ -1,0 +1,3 @@
+# Four Wheels of Prosperity
+
+​The Buddha said that there are four wheels which when endowed, will bring prosperity, and in the near future, will help achieve greatness and abundant wealth:       Living a civilized land enables one to learn the Proper Dharma.Associating with people of integrity will help us find proper guidance and support.​To observe morality means to avoid doing evil. Quickly do good even if it is the smallest amount.Having done merit in the past results in blessings in the present, keeps calamities away and brings the good seeds to fruition.Now that you know, please follow the above guidelines to teach your children so that they too can build a happier and more prosperous world.

@@ -1,0 +1,3 @@
+# Worshipping Wealth Spirits
+
+Question:Ven. Master:I worship the Earth Spirit in my house but inadvertently broke the statue. As per the elders’ counsel, I moved the broken statue to an Earth Spirit temple. Is that appropriate?Should I now worship another Wealth Spirit?​NLTV ​      Answer:It is OK. There is nothing to worry about.​Worshipping Wealth Spirits is not as good as worshipping Buddhas and Bodhisattvas.Your better quality blessings arise from doing good rather than placating the gods or spirits.

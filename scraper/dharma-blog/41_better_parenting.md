@@ -1,0 +1,3 @@
+# Better Parenting
+
+Parents can be ranked according to three criteria:​Level of morality: this determines their strength.Ability to focus: this affects their productivity.Understanding of the meaning of life: which defines the direction of their lives.      Those with any of the above three would be a good parent. They can provide good guidelines for success in life to their children.Any two of the above three would classify the parents as very good. Their children will have greater chances for success and satisfaction in life.​Those parents who have all three above criteria would be excellent parents. They can serve as role superior models for their children who will become pillars of society.

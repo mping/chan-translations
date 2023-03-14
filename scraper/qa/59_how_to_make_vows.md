@@ -1,0 +1,3 @@
+# How to make vows
+
+Question:Ven. Master,Please teach me how to make vows.Thank you very much.​MT ​      Answer:When on one’s own, vows can be made with utmost sincerity in front of the Buddhas and Bodhisattvas. However, vows made under the guidance of a Good Knowing Adviser will be done more correctly, because he or she who can advise you as to what kind of vows are appropriate. He or she can then guide you as to how to execute them in order to perfect this Paramita.​In general, I would not hesitate to make the vow to pay any price to find a Good Knowing Adviser from whom to learn Mahayana. Then I would then spare no expense or effort to go visit him or her for instruction. If we are really sincere, we will definitely be taught.

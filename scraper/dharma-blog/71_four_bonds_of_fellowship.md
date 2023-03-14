@@ -1,0 +1,3 @@
+# Four Bonds of Fellowship
+
+​The Buddha said that there are four bonds of fellowship:GivingKind wordsBeneficial helpConsistency       Giving: of wealth (such money, possessions), Dharma (to help unfold their wisdom) or fearlessness (allay their fears).Kind words: to make them happy and maintain faith.Beneficial help: to go out of your way to do something to really help.Consistency: to reassure them that we can be counted upon when they are in need.These bonds are like the lynchpin of a moving cart; it is crucial to its integrity. If even one was lacking, a mother would not receive the honor and respect owed by her child. The wise have high regard for such bonds and praise these qualities because they can help achieve greatness.

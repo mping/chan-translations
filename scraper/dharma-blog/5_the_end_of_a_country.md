@@ -1,0 +1,3 @@
+# The End of a Country
+
+What are the signs that people in the past used to determine if a country was on the decline?The country stored enough food and fortified the ramparts, neglecting to care for its citizens and felt confident that it was strong enough to fend off the enemies. Its king was not keen on working hard to maintain the independence of the country. The crown prince was weak and cowardly. The rich elite were extravagant in their expenditures and indulged in lust. The officials were arrogant, greedy and cruel. The government was heavily polarized, and no one would assume responsibility.​If that country is in between two stronger countries, it would not last ten years.      Such a country defeats itself and invites other countries to annex them.​

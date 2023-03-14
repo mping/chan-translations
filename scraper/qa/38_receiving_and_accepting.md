@@ -1,0 +1,3 @@
+# Receiving & Accepting
+
+Question:Ven. Master:What does ”receive and accept” mean?Thank you.​DTYL      Answer:My late teacher, Great master Xuan Hua, defined it as receiving the teaching with one’s body and accepting it with one’s mind by practicing it.​It could also be understood as accepting the teaching’s gift with gratitude. If you choose to accept the teaching, it will become second nature. If you are really appreciative and grateful, you will be able to put that into vigorous practice.

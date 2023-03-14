@@ -1,0 +1,3 @@
+# Embracing Others
+
+The thunder cannot be reduced in sound to harmonize with the sound of the bells. The light from the sun and moon cannot be bent to illuminate the small alley ways. The big river cannot narrow its width so as to make it easier for man to cross. The tall mountain cannot lower its peak in order to please the amateur mountain climber.Similarly, the big charriot cannot shrink its wheel axle so that it can enter the narrow passageway. The superior cannot lower himself to make himself accepted by the lowly.      Therefore, ordinary people like us should not pass judgment on others, disapproving them because they are different and cannot fit in. Among them are misfits who are truly superior men who came to our world to make a difference.​

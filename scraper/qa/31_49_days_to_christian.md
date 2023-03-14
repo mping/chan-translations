@@ -1,0 +1,3 @@
+# 49 Days to Christian
+
+Question:Hi:I am a devout Christian.My mother recently passed away and I am very interested in your Buddhist concept of the 49-day period.What can I do to help my dear mother who wishes to go near God?​EAD ​      Answer:My condolences!The 49-day period is what we Buddhists are taught about what happens to most people after death.During this 49-day period, you can help my mother’s cause of obtaining a better life by drawing near your God and making donations on her behalf. For example, you can donate a lot of money to charity or to help build a new wing for your church. That’ll go a long way toward helping her future life and getting what she wishes.​Best wishes.

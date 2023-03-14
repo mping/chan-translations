@@ -1,0 +1,3 @@
+# Being Truthful
+
+Zeng Zi’s wife was preparing to go to the market but their son cried and asked to go with her. So she said, “Stay home and be a good boy. When I come back I will give you pork for dinner.”After she came back from the market, Zeng Zi told her to kill a pig for their meal.She said, “I did not mean it!”Zeng Zi replied, “How could you? Do not ever think that children don’t understand! Whatever parents do, they will imitate. If we lied to him, aren’t we telling him that it’s OK to lie?”​So, Zeng Zi went and killed his pig and let his son have pork.      ​* * * * *  Those who are in a position of leadership must not lie. Or else, they will do serious and long-lasting harm to their followers.

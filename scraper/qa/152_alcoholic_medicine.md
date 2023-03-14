@@ -1,0 +1,3 @@
+# Alcoholic Medicine
+
+Question:Master:​For those who received the Five Precepts, if medicine contains alcohol or using drops of alcohol for preventative purposes (long term dosage: four drops each time), is that violating precepts?       Answer:Alcohol used in the preparation of medicine is part of the exception to the precepts: there is no infraction.​Using alcohol as medicine in tiny amounts for preventative purposes is also exempt. However, I have great reservations of the effectiveness of such medicine. Most medications typically have similarly effective ingredients that are non-alcoholic.

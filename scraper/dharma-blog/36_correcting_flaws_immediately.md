@@ -1,0 +1,3 @@
+# Correcting Flaws Immediately
+
+Meng Zi said, “A man steals a chicken from his neighbor every day. When told that is dishonest, he replied, ‘You are absolutely right! Unfortunately, I can’t quite stop. I tell you what: I’ll just take one chicken a day for now. I’ll stop after a year.’Would such behavior be acceptable?​We should fix our flaws as soon as we become aware of them!”      ​* * * * *  If we don’t fix our flaws right away, the flaws will grow bigger and will end up creating devastating consequences.​Buddha taught, “Do not deem evil to be too small to heed; do not mistake good to be too negligible to ignore.”
