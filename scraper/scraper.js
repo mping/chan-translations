@@ -1,6 +1,5 @@
 let { Scraper, Root, DownloadContent, OpenLinks, CollectContent } = require('nodejs-web-scraper');
 let fs = require('fs');
-const { exit } = require('process');
 
 // https://www.chanpureland.org/dharma-blog
 // https://www.chanpureland.org/qa
@@ -16,8 +15,16 @@ function makeConfig(url) {
     }
 }
 
-(async () => {
+function makeData(arr) {
+    const res = []
+    for (var i = 0; i < arr.length-1; i = i + 2) {
+        const [title, content] = arr.slice(i, i+2)
+            res.push({title, content});
+    }
+    return res
+}
 
+(async () => {
 
     //// 
     //// https://www.chanpureland.org/cultivation-stories
@@ -28,35 +35,49 @@ function makeConfig(url) {
     let archives = new OpenLinks('.blog-archive-list a',{name:'archive'});
 
     let article = new OpenLinks('.blog-read-more a.blog-link', {name:'article' });
-    let title = new CollectContent('.blog-title-link, .blog-content', { name: 'title+content' });
+    let titleWithContent = new CollectContent('.blog-title-link, .blog-content', { name: 'title+content' });
 
     root.addOperation(archives);//Then we create a scraping "tree":
-    archives.addOperation(title);
+      archives.addOperation(titleWithContent);
 
     await scraper.scrape(root);
-    console.log(JSON.stringify(archives.getData()))
-    fs.writeFileSync('./cultivation-stories.json', JSON.stringify(archives.getData()));
-
+    fs.writeFileSync('./cultivation-stories.json', JSON.stringify(makeData(titleWithContent.getData())));
 
     //// 
     //// https://www.chanpureland.org/dharma-blog
     //// 
     config = makeConfig("https://www.chanpureland.org/dharma-blog")
-    exit(0)
 
     scraper = new Scraper(config);
     root = new Root();
-    archives = new OpenLinks('.blog-archive-list a',{name:'archive'});//Opens each archive page.
-
+    archives = new OpenLinks('.blog-archive-list a',{name:'archive'});
     article = new OpenLinks('.blog-read-more a.blog-link', {name:'article' });
-    title = new CollectContent('h1', { name: 'title' });//"Collects" the text from each H1 element.
+    titleWithContent = new CollectContent('.blog-title-link, .blog-content', { name: 'title+content' });
 
     root.addOperation(archives);//Then we create a scraping "tree":
-    archives.addOperation(article);
-       article.addOperation(title);
+      archives.addOperation(article);
+       article.addOperation(titleWithContent);
 
     await scraper.scrape(root);
-    fs.writeFile('./articles.json', JSON.stringify(title.getData()), () => { });//Produces a formatted JSON with all job ads.
+    fs.writeFileSync('./dharma-blog.json', JSON.stringify(makeData(titleWithContent.getData())))
 
+
+    //// 
+    ////  https://www.chanpureland.org/qa
+    //// 
+    config = makeConfig(" https://www.chanpureland.org/qa")
+
+    scraper = new Scraper(config);
+    root = new Root();
+    archives = new OpenLinks('.blog-archive-list a',{name:'archive'});
+    article = new OpenLinks('.blog-read-more a.blog-link', {name:'article' });
+    titleWithContent = new CollectContent('.blog-title-link, .blog-content', { name: 'title+content' });
+
+    root.addOperation(archives);//Then we create a scraping "tree":
+      archives.addOperation(article);
+       article.addOperation(titleWithContent);
+
+    await scraper.scrape(root);
+    fs.writeFileSync('./qa.json', JSON.stringify(makeData(titleWithContent.getData())))
 
 })();    
