@@ -1,5 +1,6 @@
-let { Scraper, Root, DownloadContent, OpenLinks, CollectContent } = require('nodejs-web-scraper');
 let fs = require('fs');
+let { Scraper, Root, DownloadContent, OpenLinks, CollectContent } = require('nodejs-web-scraper');
+let { json2md } = require('./json2md')
 
 // https://www.chanpureland.org/dharma-blog
 // https://www.chanpureland.org/qa
@@ -42,6 +43,7 @@ function makeData(arr) {
 
     await scraper.scrape(root);
     fs.writeFileSync('./cultivation-stories.json', JSON.stringify(makeData(titleWithContent.getData())));
+    json2md('cultivation-stories')
 
     //// 
     //// https://www.chanpureland.org/dharma-blog
@@ -60,6 +62,7 @@ function makeData(arr) {
 
     await scraper.scrape(root);
     fs.writeFileSync('./dharma-blog.json', JSON.stringify(makeData(titleWithContent.getData())))
+    json2md('dharma-blog')
 
 
     //// 
@@ -79,5 +82,6 @@ function makeData(arr) {
 
     await scraper.scrape(root);
     fs.writeFileSync('./qa.json', JSON.stringify(makeData(titleWithContent.getData())))
+    json2md('qa')
 
 })();    
