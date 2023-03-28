@@ -27,10 +27,14 @@ Ler mais>>>
 
 Somos uma associação de praticantes budistas com as seguintes crenças:
 
-Comprometemo-nos a realizar a Buda o mais depressa possível.
-Cultivamos a fim de ajudar os outros a não nos ajudarmos a nós próprios.
+FAZEMOS VOTOS PARA REALIZAR A VIA DO BUDA O MAIS DEPRESSA POSSÍVEL.
+
+Cultivamos a fim de ajudar os outros, não a ajudarmos a nós próprios.
+
 Uma das nossas principais práticas é a piedade filial: retribuir a bondade dos nossos pais, professores e anciãos.
-Especializamo-nos na prática da Terra Pura Mahayana, na esperança de obter o renascimento da Terra Pura de Amitabha do Buda Ocidental, esta mesma vida, se possível.
+
+ESPECIALIZAMO-NOS NA PRÁTICA MAHAYANA DA TERRA PURA , NA ESPERANÇA DE OBTER O RENASCIMENTO DA TERRA PURA DE AMITABHA DO BUDA OCIDENTAL, NESTA MESMA VIDA, SE POSSÍVEL.
+
 Praticamos simultaneamente Chan e Terra Pura. Utilizamos a técnica de treino Chan para aumentar o nosso samadhi (concentração) de poder quando recitamos o nome do Buda.
 
 ----
@@ -42,3 +46,9 @@ Ler mais>>>
 
 Data: Sábado, 10 de Junho - Sábado, 17 de Junho de 2023
 Localização: Dharma Treasury Temple, São Francisco, CA
+
+----
+
+ChanQi
+
+O nosso retiro intensivo de meditação Chan oferece uma rara oportunidade de experimentar um treino autêntico em meditação Budista Chan nos nossos templos, Templo da Montanha Wei em Rosemead, Centro de Meditação Gold Forest Chan em San Jose, Templo Jewel Mountain e Jewel Conch na Coreia. Aqueles que são sinceros e dispostos a trabalhar arduamente, podem experimentar mudanças transformadoras da vida: melhorar na saúde, desenvolver a concentração (samadhi), e progredir no caminho do Buda para a iluminação e sabedoria.
