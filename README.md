@@ -7,9 +7,9 @@
 - [x] events > upcoming_events.md
 - [x] events > live_stream.md
 - [x] events > temple activities
-- [ ] events > foqi.md
-- [ ] events > chanqi.md
-- [ ] events > online classes.md
+- [x] events > foqi.md
+- [x] events > chanqi.md
+- [~] events > online classes.md
 - [ ] events > relics.md
 
 
