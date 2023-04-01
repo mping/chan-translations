@@ -4,13 +4,15 @@
 
 - [ ] calendar.md
 
-- [ ] events > chanqi.md
+- [x] events > upcoming_events.md
+- [x] events > live_stream.md
+- [x] events > temple activities
 - [ ] events > foqi.md
-- [ ] events > live_stream.md
+- [ ] events > chanqi.md
 - [ ] events > online classes.md
 - [ ] events > relics.md
-- [ ] events > temple activities
-- [ ] events > upcoming_events.md
+
+
 
 - [ ] dharma > ceremonies.md
 - [ ] dharma > dharma blog.md
