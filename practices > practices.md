@@ -2,23 +2,17 @@
 
 ### Práticas na Bodhi Light Internacional
 
-Somos uma associação de praticantes budistas com as seguintes crenças:
+Dharma Master YongHua treina tanto monásticos como leigos em todas as localidades da Bodhi Light International. Por favor, clique aqui para ver nossas localidades.
 
-O Mestre do Dharma YongHua treina tanto monásticos como leigos em todos os locais de Bodhi Light International. Por favor clique aqui para ver as nossas localizações.
+Todos os sábados de manhã, a BLI oferece meditação Chan das 9 às 10 horas, seguida de uma aula de meditação do Mestre YongHua das 10 às 11 horas. E aos domingos, realizamos a Assembléia da Terra Pura, que inclui a recitação do nome de Buda, cânticos e meditação, seguidos de uma Palestra de Darma. Finalmente, todos os domingos à tarde, o Mestre YongHua dá palestras sobre os Sutras Mahayana. A palestra da tarde acontece das 12:30 às 14:30. Ambos os programas incluem um almoço vegetariano e são oferecidos gratuitamente. Para uma programação detalhada das actividades do fim de semana, clique aqui.
 
-Todos os sábados de manhã, a BLI oferece meditação Chan das 9-10 da manhã, seguida de uma aula de meditação pelo Mestre YongHua das 10-11 da manhã. E aos domingos, realizamos a Assembleia da Terra Pura, que inclui recitação do nome de Buda, cânticos e meditação, seguida de uma Palestra de Dharma. Finalmente, todos os domingos à tarde, o Mestre YongHua dá palestras sobre os Sutras do Mahayana. A palestra da tarde decorre das 12:30 às 14:30. Ambos os programas incluem um almoço vegetariano e são oferecidos gratuitamente. Para um horário detalhado das actividades do fim-de-semana, clique aqui.
+A BLI também organiza todos os anos dois retiros intensivos de Meditação Chan com a duração de um mês: um no inverno, de dezembro a janeiro, e o segundo no início do verão, de maio a junho. Conhecidos como Chan Qi, estes retiros intensivos proporcionam uma rara oportunidade para os cultivadores seguirem o programa tradicional de treino Chan. Este horário inclui 15 blocos de meditação de uma hora, que alternam com períodos de 20 minutos de meditação andando e pausas para refeições.
 
-BLI também realiza anualmente dois retiros intensivos de Meditação Chan de um mês: um no Inverno, de Dezembro a Janeiro, e o segundo no início do Verão, de Maio a Junho. Conhecido como um Chan Qi, estes retiros intensivos proporcionam uma oportunidade rara para os cultivadores seguirem o horário tradicional de treino Chan. Este horário inclui 15 blocos de uma hora de meditação, que se alternam com períodos de 20 minutos de meditação a pé e intervalos para refeições.
+Os participantes são encorajados a participar na maior parte do horário que puderem. No entanto, como é muito rigoroso, a maior parte dos meditadores principiantes e intermédios acham que, no início, é demasiado difícil seguir todo o programa, pelo que lhes é permitido fazer pausas adicionais para descanso. No entanto, com o tempo, muitas pessoas melhoram e são capazes de fazer o programa completo.
 
-Os participantes são encorajados a participar no maior número possível de horários. No entanto, como é muito rigoroso, a maioria dos meditadores principiantes e intermediários acham que inicialmente é demasiado difícil seguir todo o horário, e por isso são autorizados a fazer pausas adicionais para descanso. No entanto, a seu tempo, muitas pessoas melhorarão e poderão cumprir o horário completo.
+Além disso, todos os estagiários residenciais do Templo da Montanha Lu seguem um horário diário que inclui cerimónias de manhã, à noite e ao almoço, bem como trabalho e tempo para cultivo e estudo pessoal.
 
-Além disso, todos os estagiários residenciais no Templo da Montanha Lu seguem um horário diário que inclui cerimónias de manhã, noite e almoço, bem como trabalho e tempo para cultivo pessoal e estudo.
-
-Como cultivadores no Templo da Montanha Lu, dedicamos as nossas vidas a purificar-nos, corrigindo os nossos erros. Além disso, aspiramos a retribuir a bondade dos nossos pais e professores, fazendo o nosso melhor para ajudar todos os seres vivos.
-
-A Escola Chan (que se tornou Zen no Japão) centra-se em alcançar a iluminação nesta vida. A Escola P
-
-Traduzido com a versão gratuita do tradutor - www.DeepL.com/Translator
+Como cultivadores no Templo da Montanha Lu, dedicamos as nossas vidas a purificarmo-nos corrigindo os nossos erros. Além disso, aspiramos a retribuir a bondade dos nossos pais e professores, fazendo o nosso melhor para ajudar todos os seres vivos.
 
 ----
 
